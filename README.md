@@ -1,1 +1,9 @@
-# geo-twink-no-name
+# Password Generator
+
+trial and error
+
+# assigned variables
+
+# make password
+
+generateBtn.addEventListener("click", writePassword);
